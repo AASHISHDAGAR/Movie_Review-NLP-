@@ -1,3 +1,6 @@
+This project is my first project in ML(NLP).
+$$The final result/Model is ok but without any Finetune$$
+
 Data info:
 We have 1 lacks Movie review scraped from IDM website,
 Data set is divide into Test/Train and further pos/neg Review with each 25k Reviews.
