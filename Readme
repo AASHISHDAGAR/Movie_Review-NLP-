@@ -1,0 +1,6 @@
+Data info:
+We have 1 lacks Movie review scraped from IDM website,
+
+Goal of project:
+1:To predict the sentiment Analysis of Review 
+2. Catageris the review in Category like (Horror , Drama,Action etc) based on text of review.
